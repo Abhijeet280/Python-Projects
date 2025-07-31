@@ -44,10 +44,7 @@ FileHandlingProject/
 
 ## 📸 Screenshot (GUI Example)
 
-<img width="300" height="300" alt="Screenshot 2025-07-31 165658" src="https://github.com/user-attachments/assets/a1eed0d6-eccc-4d58-a38e-b217a0fa6406" />      
-<img width="350" height="350" alt="Screenshot 2025-07-31 165918" src="https://github.com/user-attachments/assets/ca018fa8-c53e-4f07-acda-4f6ac1bb291d" />
-<img width="425" height="289" alt="Screenshot 2025-07-31 165837" src="https://github.com/user-attachments/assets/6dab56e7-44fd-4ed3-bec0-86f3043fbd6a" />
-
+<p align="center"> <img src="https://github.com/user-attachments/assets/a1eed0d6-eccc-4d58-a38e-b217a0fa6406" width="300" height="200" /> <img src="https://github.com/user-attachments/assets/ca018fa8-c53e-4f07-acda-4f6ac1bb291d" width="300" height="200" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/6dab56e7-44fd-4ed3-bec0-86f3043fbd6a" width="300" height="200" /> <img src="https://github.com/user-attachments/assets/70f4e4be-8d33-4743-84e8-99e0ccfabf93" width="300" height="200" /> </p>
 
 
 
