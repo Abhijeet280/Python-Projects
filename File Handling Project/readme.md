@@ -48,7 +48,6 @@ FileHandlingProject/
 
 
 
----<img width="359" height="201" alt="Screenshot 2025-07-31 165852" src="https://github.com/user-attachments/assets/70f4e4be-8d33-4743-84e8-99e0ccfabf93" />
 
 
 
