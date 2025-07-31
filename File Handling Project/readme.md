@@ -8,8 +8,6 @@ A simple **Python-based File Handling Project** that allows users to:
 * Delete files
 * View the list of files in the directory
 
-The project is designed for **beginners** to understand basic **Python file handling** operations.
-
 ---
 
 ## 🖥️ Features
@@ -30,16 +28,6 @@ The project is designed for **beginners** to understand basic **Python file hand
 * **Tkinter** (optional, for GUI version)
 
 ---
-
-## 📂 Project Structure
-
-```
-FileHandlingProject/
-│
-├── file_handling.py        # Console version of the project
-├── file_handling_gui.py    # GUI version using Tkinter
-└── README.md               # Project documentation
-```
 
 
 ## 📸 Screenshot (GUI Example)
