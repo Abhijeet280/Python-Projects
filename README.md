@@ -1,5 +1,3 @@
-🐍 Python Projects Repository
-
 Welcome to my **Python Projects Repository**! 👋
 
 I am a **Data Science student** learning Python step by step, and this repository will be my **collection of Python projects**.
