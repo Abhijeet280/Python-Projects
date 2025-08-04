@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Harry Potter",
+        "age": 56,
+        "address": "Hagwards",
+        "phone_number": "947772571",
+        "account_number": 6218072588,
+        "pin": 8547,
+        "balance": 0.0
+    }
+]
